@@ -119,12 +119,6 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 https://dai.google.com/linear/hls/event/1B2yihdIR1mCL63rXzERag/master.m3u8
 #EXTINF:-1 tvg-id="SwissSportTV.ch" tvg-name="Swiss Sport TV" tvg-country="CH" tvg-language="English" tvg-logo="https://i.imgur.com/HC0j4cC.jpg" tvg-url="" group-title="Sport",Swiss Sport TV (720p)
 https://av02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
-#EXTINF:-1 tvg-id="TelecaribeDeportes2.co" tvg-name="Telecaribe Deportes 2" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7qSbS53.png" tvg-url="" group-title="Sport",Telecaribe Deportes 2
-https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
-#EXTINF:-1 tvg-id="TelecaribeDeportes2.co" tvg-name="Telecaribe Deportes 2" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7qSbS53.png" tvg-url="" group-title="Sport",Telecaribe Deportes 2
-https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/3296k/index.m3u8
-#EXTINF:-1 tvg-id="TelecaribeDeportes2.co" tvg-name="Telecaribe Deportes 2" tvg-country="CO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/7qSbS53.png" tvg-url="" group-title="Sport",Telecaribe Deportes 2
-https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/496k/index.m3u8
 #EXTINF:-1 tvg-id="TheTennisChannel.us" tvg-name="Super Tennis" tvg-country="US" tvg-language="English" tvg-logo="https://live.staticflickr.com/65535/54302352011_7b23379aca_o.jpg" tvg-url="" group-title="Sport",The Tennis Channel
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
 #EXTINF:-1 tvg-id="TVSBoxing.us" tvg-name="TVS Boxing" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sal5CkX.jpg" tvg-url="" group-title="Sport",TVS Boxing (720p)
