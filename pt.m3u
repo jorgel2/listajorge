@@ -47,8 +47,8 @@ https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playli
 https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b3000000.m3u8
 #EXTINF:-1 tvg-id="Dubai Sports 2" tvg-name="Dubai Sports 2" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://live.staticflickr.com/65535/54302856523_1a60560155_o.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Dubai Sports 2 (1080p)
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-id="Dubai Sports 3" tvg-name="Dubai Sports 3" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Dubai Sports 3 (1080p)
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 tvg-id="Dubai Sports 3" tvg-name="Dubai Sports 3" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://live.staticflickr.com/65535/54301755562_9d85abc02d_o.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Dubai Sports 3 (1080p)
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-id="EDGE Sport" tvg-name="Edge Sports" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Mg7BTDP.jpg" tvg-url="" group-title="Sport",Edge Sports
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
 #EXTINF:-1 tvg-id="EdgeSports.us" tvg-name="Edge Sports" tvg-country="US" tvg-language="English" tvg-logo="https://static1.squarespace.com/static/5a6f534f017db2d628751be1/t/5a6f5557652deada67290f54" tvg-url="" group-title="Sport",Edge Sports (1080p)
