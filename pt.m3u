@@ -3,7 +3,7 @@
 https://9e2ee5d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 2" tvg-name="Abu Dhabi Sports 2" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7NeBmWX.jpeg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Abu Dhabi Sports 2 (1080p)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="Abu Dhabi Sports 3" tvg-name="Abu Dhabi Sports 3" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.ibb.co/BfM21nC/beinhaber.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Abu Dhabi Sports 3 (1080p)
+#EXTINF:-1 tvg-id="Abu Dhabi Sports 3" tvg-name="Porto canal" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://live.staticflickr.com/65535/54300232537_178da2264e_m.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Abu Dhabi Sports 3 (1080p)
 https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AdventureSportsNetwork.us" tvg-name="Adventure Sports Network" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",Adventure Sports Network
 https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
