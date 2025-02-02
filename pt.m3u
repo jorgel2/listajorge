@@ -21,8 +21,8 @@ https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v
 https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 #EXTINF:-1 tvg-id="ATG.se" tvg-name="ATG" tvg-country="SE" tvg-language="Swedish" tvg-logo="https://i.imgur.com/8ZFQ93Z.png" tvg-url="" group-title="Sport",ATG (432p)
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
-#EXTINF:-1 tvg-id="ATG.se" tvg-name="ATG" tvg-country="SE" tvg-language="Swedish" tvg-logo="https://i.imgur.com/5CdW62M.png" tvg-url="" group-title="Sport",ATG
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:-1 tvg-id="ATG.se" tvg-name="ATG" tvg-country="SE" tvg-language="Swedish" tvg-logo="https://live.staticflickr.com/65535/54303281256_f592e81568_o.jpg" tvg-url="" group-title="Sport",ATG
+https://af.ayassport.ir/hls2/ssc1.m3u8
 #EXTINF:-1 tvg-id="BahrainSports1.bh" tvg-name="Bahrain Sports 1" tvg-country="BH" tvg-language="Arabic" tvg-logo="" tvg-url="" group-title="Sport",Bahrain Sports 1 (720p)
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
 #EXTINF:-1 tvg-id="BahrainSports2.bh" tvg-name="Bahrain Sports 2" tvg-country="BH" tvg-language="Arabic" tvg-logo="" tvg-url="" group-title="Sport",Bahrain Sports 2 (720p)
@@ -77,8 +77,8 @@ https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KOKFights.lt" tvg-name="KOK Fights" tvg-country="LT" tvg-language="Lithuanian" tvg-logo="https://i.imgur.com/387jXC7.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Sport",KOK Fights (720p)
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="KTV Sport ARB" tvg-name="KTV Sport ARB" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.goalzz.com/images/logo_sport/kuwaitsport.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",KTV Sport (1080p)
-https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
+#EXTINF:-1 tvg-id="KTV Sport ARB" tvg-name="KTV Sport PLUS" tvg-country="KW" tvg-language="Arabic" tvg-logo="https://live.staticflickr.com/65535/54303514278_411019944c_o.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",KTV Sport (1080p)
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="MLB Network: Intentional Talk" tvg-name="MLB Network" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/oDOpMph.png" tvg-url="" group-title="Sport",MLB Network
 https://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1 tvg-id="MMAJunkie.us" tvg-name="MMA Junkie" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/s5NcNef.png" tvg-url="" group-title="Sport",MMA Junkie
