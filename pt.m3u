@@ -81,10 +81,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="MLB Network: Intentional Talk" tvg-name="MLB Network" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/oDOpMph.png" tvg-url="" group-title="Sport",MLB Network
 https://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1 tvg-id="MMAJunkie.us" tvg-name="MMA Junkie" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/s5NcNef.png" tvg-url="" group-title="Sport",MMA Junkie
-https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
-#EXTINF:-1 tvg-id="MMN.us" tvg-name="MMN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/s5NcNef.png" tvg-url="" group-title="Sport",MMN
-https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/low/c.m3u8
 #EXTINF:-1 tvg-id="MonterricoTV.pe" tvg-name="Monterrico TV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhD4JjitkowIeOGRlCsK-kmDk1T3lXgqklUjSv5KA=s320-c-k-c0x00ffffff-no-rj" tvg-url="" group-title="Sport",Monterrico TV
 https://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 #EXTINF:-1 tvg-id="NewJapanProWrestlingWorld.jp" tvg-name="New Japan Pro Wrestling World" tvg-country="JP" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/480px-New_Japan_Pro_Wrestling_Logo_2.svg.png" tvg-url="" group-title="Sport",New Japan Pro Wrestling World
