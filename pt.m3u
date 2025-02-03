@@ -99,10 +99,6 @@ https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c
 https://bozztv.com/gusa/gusa-tvsboxing/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TVSClassicSports.us" tvg-name="TVS Classic Sports" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ui099xQ.jpg" tvg-url="" group-title="Sport",TVS Classic Sports (720p)
 https://bozztv.com/gusa/gusa-tvs/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TVSSports.us" tvg-name="TVS Sports" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/OFO86K5.jpg" tvg-url="" group-title="Sport",TVS Sports (960p)
-https://nrpus.bozztv.com/36bay2/gusa-tvssports/index.m3u8
-#EXTINF:-1 tvg-id="TVSWomenSports.us" tvg-name="TVS Women Sports" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/jQdBjyx.jpg" tvg-url="" group-title="Sport",TVS Women Sports (480p)
-https://nrpus.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
 #EXTINF:-1 tvg-id="USSPORTTennisPlus1.us" tvg-name="CDN Deportes" tvg-country="VN" tvg-language="English" tvg-logo="https://live.staticflickr.com/65535/54302582878_0dbdc8a8e3_o.jpg" tvg-url="" group-title="Sport",US SPORT Tennis Plus 1
 https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/bc949011-1dd8-4d10-596c-f6910d4a9cf7.m3u8
 #EXTINF:-1 tvg-id="TVSClassicSports.us" tvg-name="Combate" tvg-country="US" tvg-language="English" tvg-logo="https://live.staticflickr.com/65535/54302063907_0cff47b203_o.png" tvg-url="" group-title="Sport",Combate (720p)
