@@ -103,14 +103,6 @@ https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
 https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
 #EXTINF:-1 tvg-id="Sharjah Sports HD" tvg-name="Sharjah Sports HD" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Sharjah Sports TV (1080p)
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SnowyMountainsTelevision.au" tvg-name="Snowy Mountains Television" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/vuFx0Zd.jpg" tvg-url="http://i.mjh.nz/nzau/epg.xml.gz" group-title="Sport",Snowy Mountains Television (1082p)
-https://dcunilive30-lh.akamaihd.net/i/dclive_1@535229/master.m3u8
-#EXTINF:-1 tvg-id="Stadium.us" tvg-name="Stadium" tvg-country="US" tvg-language="English" tvg-logo="https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg" tvg-url="" group-title="Sport",Stadium (720p)
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1 tvg-id="STIRRSports.us" tvg-name="STIRR Sports" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SAfy1us.png" tvg-url="" group-title="Sport",STIRR Sports (720p)
-https://dai.google.com/linear/hls/event/1B2yihdIR1mCL63rXzERag/master.m3u8
-#EXTINF:-1 tvg-id="SwissSportTV.ch" tvg-name="Swiss Sport TV" tvg-country="CH" tvg-language="English" tvg-logo="https://i.imgur.com/HC0j4cC.jpg" tvg-url="" group-title="Sport",Swiss Sport TV (720p)
-https://av02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
 #EXTINF:-1 tvg-id="TheTennisChannel.us" tvg-name="Super Tennis" tvg-country="US" tvg-language="English" tvg-logo="https://live.staticflickr.com/65535/54302352011_7b23379aca_o.jpg" tvg-url="" group-title="Sport",The Tennis Channel
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
 #EXTINF:-1 tvg-id="TVSBoxing.us" tvg-name="TVS Boxing" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sal5CkX.jpg" tvg-url="" group-title="Sport",TVS Boxing (720p)
