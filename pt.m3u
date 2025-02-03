@@ -98,7 +98,7 @@ https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c
 #EXTINF:-1 tvg-id="TVSBoxing.us" tvg-name="TVS Boxing" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sal5CkX.jpg" tvg-url="" group-title="Sport",TVS Boxing (720p)
 https://bozztv.com/gusa/gusa-tvsboxing/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TVSClassicSports.us" tvg-name="TVS Classic Sports" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ui099xQ.jpg" tvg-url="" group-title="Sport",TVS Classic Sports (720p)
-https://nrpus.bozztv.com/36bay2/gusa-tvs/index.m3u8
+https://bozztv.com/gusa/gusa-tvs/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TVSSports.us" tvg-name="TVS Sports" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/OFO86K5.jpg" tvg-url="" group-title="Sport",TVS Sports (960p)
 https://nrpus.bozztv.com/36bay2/gusa-tvssports/index.m3u8
 #EXTINF:-1 tvg-id="TVSWomenSports.us" tvg-name="TVS Women Sports" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/jQdBjyx.jpg" tvg-url="" group-title="Sport",TVS Women Sports (480p)
