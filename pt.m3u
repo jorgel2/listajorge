@@ -93,12 +93,6 @@ https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjY
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-id="RugbyMensSevens.ie" tvg-name="CBS Sports" tvg-country="IE" tvg-language="English" tvg-logo="https://live.staticflickr.com/65535/54303760536_0c19d55a44_o.png" tvg-url="" group-title="Sport",cbs sports
 https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="RugbyWomensSevens.ie" tvg-name="Rugby Women's Sevens" tvg-country="IE" tvg-language="English" tvg-logo="https://i.imgur.com/HZp8PAw.png" tvg-url="" group-title="Sport",Rugby Women's Sevens (288p)
-https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
-#EXTINF:-1 tvg-id="RugbyWorldTV.ie" tvg-name="Rugby World TV" tvg-country="IE" tvg-language="English" tvg-logo="https://i.imgur.com/xVgXmS2.jpg" tvg-url="" group-title="Sport",Rugby World TV (720p)
-https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
-#EXTINF:-1 tvg-id="Sharjah Sports HD" tvg-name="Sharjah Sports HD" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Sharjah Sports TV (1080p)
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TheTennisChannel.us" tvg-name="Super Tennis" tvg-country="US" tvg-language="English" tvg-logo="https://live.staticflickr.com/65535/54302352011_7b23379aca_o.jpg" tvg-url="" group-title="Sport",The Tennis Channel
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
 #EXTINF:-1 tvg-id="TVSBoxing.us" tvg-name="TVS Boxing" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sal5CkX.jpg" tvg-url="" group-title="Sport",TVS Boxing (720p)
