@@ -69,10 +69,6 @@ https://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/10000/t/
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1 tvg-id="Traceurban.us" tvg-name="Trace urban" tvg-country="US" tvg-language="English" tvg-logo="https://canl.nc/wp-content/uploads/2024/06/TRACE-URBAN.png" tvg-url="" group-title="Sport",Horizon Sports
 https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tracetv-traceurban-klowdtv/playlist.m3u8
-#EXTINF:-1 tvg-id="Jordan Sports ARB" tvg-name="Jordan Sports ARB" tvg-country="JO" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Plcqlr7.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Jordan Sport TV
-https://jrtv-live.ercdn.net/jordansporthd/jordansporthd.m3u8
-#EXTINF:-1 tvg-id="KBPSPORTS.us" tvg-name="KBP SPORTS" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",KBP SPORTS (720p)
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KOKFights.lt" tvg-name="KOK Fights" tvg-country="LT" tvg-language="Lithuanian" tvg-logo="https://i.imgur.com/387jXC7.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Sport",KOK Fights (720p)
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KTV Sport ARB" tvg-name="KTV Sport PLUS" tvg-country="KW" tvg-language="Arabic" tvg-logo="https://live.staticflickr.com/65535/54303514278_411019944c_o.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",KTV Sport (1080p)
