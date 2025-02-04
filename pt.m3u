@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="rtp" tvg-id="RTP" tvg-logo="https://live.staticflickr.com/65535/54307486543_675a1ba304_o.jpg",rtp
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 #EXTINF:-1 group-title="TVi" tvg-id="TVI" tvg-logo="https://live.staticflickr.com/65535/54307486543_675a1ba304_o.jpg",tvi
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
 #EXTINF:-1 tvg-id="AdventureSportsNetwork.us" tvg-name="SIC" tvg-country="PT" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png" tvg-url="" group-title="Sport",Adventure Sports Network
