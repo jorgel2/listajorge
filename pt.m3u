@@ -19,6 +19,8 @@ https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-id="Porto" tvg-name="Porto canal" tvg-country="ARAB" tvg-language="PT" tvg-logo="https://live.staticflickr.com/65535/54300232537_178da2264e_m.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Abu Dhabi Sports 3 (1080p)
 https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="famatv.pt" tvg-name="Fama TV" tvg-country="PT" tvg-language="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fama-TV.jpg" tvg-url="" group-title="Sport",Fama TV
+https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
 #EXTINF:-1 tvg-id="Arryadia.ma" tvg-name="Arryadia" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://live.staticflickr.com/65535/54303571643_3d3029138d_o.jpg" tvg-url="" group-title="Sport",Arryadia (360p)
 https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 #EXTINF:-1 tvg-id="RM.es" tvg-name="Real Madrid" tvg-country="ES" tvg-language="ES" tvg-logo="https://live.staticflickr.com/65535/54302424737_67b3b3acec_o.jpg" tvg-url="" group-title="Sport",RM (432p)
