@@ -27,7 +27,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1 tvg-id="INT.IT" tvg-name="Inter Milão" tvg-country="UK" tvg-language="Italian" tvg-logo="https://live.staticflickr.com/65535/54304492119_edcbc94d2e_o.jpg" tvg-url="" group-title="Sport",IM
 https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_xmkk2kjr/flavorIds/0_zlbr85f8,0_zlbr85f8,0_noewhew2/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 tvg-id="ICanalMotor" tvg-name="Canal Motor" tvg-country="UK" tvg-language="EN" tvg-logo="https://live.staticflickr.com/65535/54304492119_edcbc94d2e_o.jpg" tvg-url="" group-title="Sport",Canal Motor
+#EXTINF:-1 tvg-id="ICanalMotor" tvg-name="Canal Motor" tvg-country="UK" tvg-language="EN" tvg-logo="https://live.staticflickr.com/65535/54306570897_9c32cab0b1_o.jpg" tvg-url="" group-title="Sport",Canal Motor
 https://digicom.hls.iptvdc.com/motorstv/index.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 1" tvg-name="Abu Dhabi Sports" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.ibb.co/0YKFn02/motorvisionfrs.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Abu Dhabi Sports 1 (1080p)
 https://9e2ee5d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8
