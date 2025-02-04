@@ -5,9 +5,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/s
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
 #EXTINF:-1 tvg-id="AdventureSportsNetwork.us" tvg-name="SIC Noticias" tvg-country="PT" tvg-language="PT" tvg-logo="https://live.staticflickr.com/65535/54303083315_c2fe8bd193_o.png" tvg-url="" group-title="Noticias",Network
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index_4.m3u8
-#EXTINF:-1 tvg-id="CNN" tvg-name="CNN PT" tvg-country="US" tvg-language="PT" tvg-logo="https://live.staticflickr.com/65535/54307240456_5ff7175e88_o.jpg" tvg-url="" group-title="Sport",CNN Portugal
-https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
-#EXTINF:-1 tvg-id="AdventureSportsNetwork.us" tvg-name="Adventure Sports Network" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",Adventure Sports Network
+#EXTINF:-1 tvg-id="cnews.fr" tvg-name="C news" tvg-country="FR" tvg-language="English" tvg-logo="https://live.staticflickr.com/65535/54307667753_8000efcb15_o.jpg" tvg-url="" group-title="Sport",cnews
 https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="MyTime Movie Network" tvg-logo="https://live.staticflickr.com/65535/54301649443_090ec0bee3_m.jpg",MyTime Movie Network (BR)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
