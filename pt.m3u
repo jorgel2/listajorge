@@ -31,8 +31,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1 tvg-id="INT.IT" tvg-name="Inter Milão" tvg-country="UK" tvg-language="Italian" tvg-logo="https://live.staticflickr.com/65535/54304492119_edcbc94d2e_o.jpg" tvg-url="" group-title="Sport",IM
 https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_xmkk2kjr/flavorIds/0_zlbr85f8,0_zlbr85f8,0_noewhew2/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 tvg-id="campuslore" tvg-name="Campuslore" tvg-country="usa" tvg-language="EN" tvg-logo="https://live.staticflickr.com/65535/54306838636_98e2c9c4c3_o.jpg" tvg-url="" group-title="Sport",Campuslore Sports (720p)
+#EXTINF:-1 tvg-id="campuslore" tvg-name="Campuslore" tvg-country="usa" tvg-language="EN" tvg-logo="https://live.staticflickr.com/65535/54306838636_98e2c9c4c3_o.jpg" tvg-url="" group-title="Sport",Campuslore Sports  (720p)
 https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="NFL" tvg-name="NFL Network" tvg-country="usa" tvg-language="EN" tvg-logo="https://live.staticflickr.com/65535/54307138318_64eeb0eafd_o.jpg" tvg-url="" group-title="Sport",NFL Network  (720p)
+https://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="SSC.se" tvg-name="SSC" tvg-country="SE" tvg-language="Swedish" tvg-logo="https://live.staticflickr.com/65535/54303281256_f592e81568_o.jpg" tvg-url="" group-title="Sport",SSC
 https://af.ayassport.ir/hls2/ssc1.m3u8
 #EXTINF:-1 tvg-id="BahrainSports2.bh" tvg-name="Bahrain Sports 2" tvg-country="BH" tvg-language="Arabic" tvg-logo="" tvg-url="" group-title="Sport",Bahrain Sports 2 (720p)
