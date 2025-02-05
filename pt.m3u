@@ -69,16 +69,6 @@ https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunkl
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 tvg-id="Dubai Sports 3" tvg-name="Dubai Sports 3" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://live.staticflickr.com/65535/54301755562_9d85abc02d_o.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Dubai Sports 3 (1080p)
 https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 tvg-id="EDGE Sport" tvg-name="Edge Sports" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Mg7BTDP.jpg" tvg-url="" group-title="Sport",Edge Sports
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
-#EXTINF:-1 tvg-id="EdgeSports.us" tvg-name="Edge Sports" tvg-country="US" tvg-language="English" tvg-logo="https://static1.squarespace.com/static/5a6f534f017db2d628751be1/t/5a6f5557652deada67290f54" tvg-url="" group-title="Sport",Edge Sports (1080p)
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",ESPN (720p)
-https://gma2.blab.email/fs2.m3u8
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-country="US" tvg-language="English" tvg-logo="https://logowiki.net/wp-content/uploads/imgp/ESPN-2-Logo-1-9160.png" tvg-url="" group-title="Sport",ESPN 2 (720p)
-https://gma2.blab.email/espn2.m3u8
-#EXTINF:-1 tvg-id="ESPNU.us" tvg-name="ESPN U" tvg-country="US" tvg-language="English" tvg-logo="https://www.houstononthecheap.com/wp-content/uploads/2020/02/watch-ESPNU-online.jpg" tvg-url="" group-title="Sport",ESPN U (720p)
-https://gma2.blab.email/espnu.m3u8
 #EXTINF:-1 tvg-id="Esport3.es" tvg-name="Esport3" tvg-country="ES" tvg-language="Spanish" tvg-logo="" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Sport",Esport3 (1080p)
 https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
 #EXTINF:-1 tvg-id="Esport3.es" tvg-name="Esport3" tvg-country="ES;AD" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Esport3/picture?width=320&height=320" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Sport",Esport3 (1080p)
