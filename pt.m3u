@@ -15,6 +15,8 @@ https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2012/08/canal-parlamento-2.jpg" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sport",CCTV中国中央电视台-5+ 体育赛事
 https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
+#EXTINF:-1 tvg-id="AKCTV.us" tvg-name="AKC TV" tvg-country="US" tvg-language="English" tvg-logo="https://live.staticflickr.com/65535/54307609826_0216c79402_o.png" tvg-url="" group-title="Sport",AAKC TV
+https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8
 #EXTINF:-1 tvg-id="AdventureSportsTV.us" tvg-name="Narure Time" tvg-country="US" tvg-language="English" tvg-logo="https://i.ibb.co/HzXTSvk/naturetime.jpg" tvg-url="" group-title="Sport",Adventure Sports TV (360p)
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 #EXTINF:-1 tvg-id="Porto" tvg-name="Porto canal" tvg-country="ARAB" tvg-language="PT" tvg-logo="https://live.staticflickr.com/65535/54300232537_178da2264e_m.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Abu Dhabi Sports 3 (1080p)
