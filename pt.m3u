@@ -32,7 +32,7 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058
 #EXTINF:-1 tvg-id="INT.IT" tvg-name="Inter Milão" tvg-country="UK" tvg-language="Italian" tvg-logo="https://live.staticflickr.com/65535/54304492119_edcbc94d2e_o.jpg" tvg-url="" group-title="Sport",IM
 https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_xmkk2kjr/flavorIds/0_zlbr85f8,0_zlbr85f8,0_noewhew2/format/applehttp/protocol/https/a.m3u8
 #EXTINF:-1 tvg-id="sky" tvg-name="sky sport" tvg-country="UK" tvg-language="Italian" tvg-logo="https://live.staticflickr.com/65535/54311424591_ceef1b7f36_o.png" tvg-url="" group-title="Sport",sky
-http://sapphireapp.xyz:8080/live/vasconeves/1742766045/47871.m3u8
+https://cdn09jtedge.indihometv.com/joss/133/fightsport/index.m3u8
 #EXTINF:-1 tvg-id="CanalMotor" tvg-name="Canal Motor" tvg-country="UK" tvg-language="EN" tvg-logo="https://live.staticflickr.com/65535/54306570897_9c32cab0b1_o.jpg" tvg-url="" group-title="Sport",Canal Motor
 https://digicom.hls.iptvdc.com/motorstv/index.m3u8
 #EXTINF:-1 tvg-id="RPM tv" tvg-name="RPM" tvg-country="UK" tvg-language="EN" tvg-logo="https://live.staticflickr.com/65535/54307901640_58aeb99a2e_o.png" tvg-url="" group-title="Sport",RPM Motor
