@@ -3,6 +3,8 @@
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
 #EXTINF:-1 tvg-id="AdventureSportsNetwork.us" tvg-name="SIC" tvg-country="PT" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png" tvg-url="" group-title="Sport",Adventure Sports Network
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+#EXTINF:-1 group-title="TVi" tvg-id="V+" tvg-logo="https://live.staticflickr.com/65535/54313156066_b0374abc0b_o.jpg",tv+
+https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 #EXTINF:-1 tvg-id="AdventureSportsNetwork.us" tvg-name="SIC Noticias" tvg-country="PT" tvg-language="PT" tvg-logo="https://live.staticflickr.com/65535/54303083315_c2fe8bd193_o.png" tvg-url="" group-title="Noticias",Network
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index_4.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="MyTime Movie Network" tvg-logo="https://live.staticflickr.com/65535/54301649443_090ec0bee3_m.jpg",MyTime Movie Network (BR)
@@ -17,12 +19,12 @@ https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u
 https://install.akctvcontrol.com/speed/broadcast/139/desktop-playlist.m3u8
 #EXTINF:-1 tvg-id="AdventureSportsTV.us" tvg-name="Narure Time" tvg-country="US" tvg-language="English" tvg-logo="https://i.ibb.co/HzXTSvk/naturetime.jpg" tvg-url="" group-title="Sport",Adventure Sports TV (360p)
 https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
-#EXTINF:-1 tvg-id="Choppertown" tvg-name="Chopper Town" tvg-country="EU" tvg-language="uk" tvg-logo="https://live.staticflickr.com/65535/54313112801_469583eefa_o.jpg" tvg-url="" group-title="Chopper",Choppertown
-https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="Porto" tvg-name="Porto canal" tvg-country="ARAB" tvg-language="PT" tvg-logo="https://live.staticflickr.com/65535/54300232537_178da2264e_m.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Abu Dhabi Sports 3 (1080p)
 https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="famatv.pt" tvg-name="Fama TV" tvg-country="PT" tvg-language="PT" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Fama-TV.jpg" tvg-url="" group-title="Sport",Fama TV
 https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
+#EXTINF:-1 tvg-id="4 sports" tvg-name="4 sports live" tvg-country="RA" tvg-language="RA" tvg-logo="https://live.staticflickr.com/65535/54307318428_5d46c3b7f0_o.png" tvg-url="" group-title="Sport",4 sports live
+https://hls.pokertvfa.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Arryadia.ma" tvg-name="Arryadia" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://live.staticflickr.com/65535/54303571643_3d3029138d_o.jpg" tvg-url="" group-title="Sport",Arryadia (360p)
 https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 #EXTINF:-1 tvg-id="RM.es" tvg-name="Real Madrid" tvg-country="ES" tvg-language="ES" tvg-logo="https://live.staticflickr.com/65535/54302424737_67b3b3acec_o.jpg" tvg-url="" group-title="Sport",RM (432p)
@@ -31,6 +33,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1 tvg-id="INT.IT" tvg-name="Inter Milão" tvg-country="UK" tvg-language="Italian" tvg-logo="https://live.staticflickr.com/65535/54304492119_edcbc94d2e_o.jpg" tvg-url="" group-title="Sport",IM
 https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0_xmkk2kjr/flavorIds/0_zlbr85f8,0_zlbr85f8,0_noewhew2/format/applehttp/protocol/https/a.m3u8
+#EXTINF:-1 tvg-id="Choppertown" tvg-name="Chopper Town" tvg-country="EU" tvg-language="uk" tvg-logo="https://live.staticflickr.com/65535/54313112801_469583eefa_o.jpg" tvg-url="" group-title="Chopper",Choppertown
+https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="fights" tvg-name="Fight Sports" tvg-country="UK" tvg-language="uk" tvg-logo="https://live.staticflickr.com/65535/54311465711_889dc916cc_o.jpg" tvg-url="" group-title="Sport",fight
 https://cdn09jtedge.indihometv.com/joss/133/fightsport/index.m3u8
 #EXTINF:-1 tvg-id="CanalMotor" tvg-name="Canal Motor" tvg-country="UK" tvg-language="EN" tvg-logo="https://live.staticflickr.com/65535/54306570897_9c32cab0b1_o.jpg" tvg-url="" group-title="Sport",Canal Motor
@@ -47,8 +51,6 @@ https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8
 https://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="Futbool" tvg-name="More Than Sports TV" tvg-country="RA" tvg-language="EN" tvg-logo="https://live.staticflickr.com/65535/54307470615_68d73b4621_o.jpg" tvg-url="" group-title="Sport",MoreSports TV
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
-#EXTINF:-1 tvg-id="4 sports" tvg-name="4 sports live" tvg-country="RA" tvg-language="RA" tvg-logo="https://live.staticflickr.com/65535/54307318428_5d46c3b7f0_o.png" tvg-url="" group-title="Sport",4 sports live
-https://hls.pokertvfa.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="colimdo" tvg-name="Colimdo tv" tvg-country="RA" tvg-language="dominicano" tvg-logo="https://live.staticflickr.com/65535/54306214307_4ec5d53b3e_o.jpg" tvg-url="" group-title="Sport",colimdo tv
 https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
 #EXTINF:-1 tvg-id="k19" tvg-name="K19 tv" tvg-country="AU" tvg-language="austria" tvg-logo="https://live.staticflickr.com/65535/54306241967_65681bb170_o.png" tvg-url="" group-title="Sport",k19
