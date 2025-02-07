@@ -77,8 +77,8 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tracetv-traceurban-klowdtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Tracelatina.us" tvg-name="Trace latina" tvg-country="US" tvg-language="English" tvg-logo="https://live.staticflickr.com/65535/54307829173_dcfb5e3eda_o.jpg" tvg-url="" group-title="Sport",trace latina
 https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8
-#EXTINF:-1 tvg-id="KOKFights.lt" tvg-name="KOK Fights" tvg-country="LT" tvg-language="Lithuanian" tvg-logo="https://i.imgur.com/387jXC7.jpg" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Sport",KOK Fights (720p)
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="mtvclassic" tvg-name="MTV Classic" tvg-country="EU" tvg-language="EN" tvg-logo="https://live.staticflickr.com/65535/54313361114_d8375cd714_o.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="music",Mtv classic
+https://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:-1 tvg-id="KTV Sport ARB" tvg-name="KTV Sport PLUS" tvg-country="KW" tvg-language="Arabic" tvg-logo="https://live.staticflickr.com/65535/54303514278_411019944c_o.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",KTV Sport (1080p)
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="MLB Network: Intentional Talk" tvg-name="MLB Network" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/oDOpMph.png" tvg-url="" group-title="Sport",MLB Network
