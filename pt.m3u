@@ -67,8 +67,8 @@ https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tr
 https://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:-1 tvg-id="Redbull" tvg-name="Red bull" tvg-country="IN" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7NeBmWX.jpeg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Abu Dhabi Sports 2 (1080p)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 tvg-id="sky" tvg-name="Sky sports main event" tvg-country="PT" tvg-language="PT" tvg-logo="https://live.staticflickr.com/65535/54303741276_ddcbc1bd28_o.jpg" tvg-url="" group-title="Sport",main event
-http://sapphireapp.xyz:8080/live/HRXc5tVQ3z/7710343396/47868.m3u8
+#EXTINF:-1 tvg-id="crazy" tvg-name="Ridiculous TV" tvg-country="usa" tvg-language="EN" tvg-logo="https://live.staticflickr.com/65535/54313942124_be5cc9669f_o.jpg" tvg-url="" group-title="Fun",Ridiculous TV
+https://30a-tv.com/feeds/720p/63.m3u8
 #EXTINF:-1 tvg-id="campuslore" tvg-name="Campuslore" tvg-country="usa" tvg-language="EN" tvg-logo="https://live.staticflickr.com/65535/54306838636_98e2c9c4c3_o.jpg" tvg-url="" group-title="Sport",Campuslore Sports  (720p)
 https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="NFL" tvg-name="NFL Network" tvg-country="usa" tvg-language="EN" tvg-logo="https://live.staticflickr.com/65535/54307138318_64eeb0eafd_o.jpg" tvg-url="" group-title="Sport",NFL Network  (720p)
