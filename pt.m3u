@@ -51,6 +51,8 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="boxing.us" tvg-name="Boxing tv" tvg-country="US" tvg-language="English" tvg-logo="https://live.staticflickr.com/65535/54307973055_4bcc95f829_o.jpg" tvg-url="" group-title="Sport",boxingtv
 https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
+#EXTINF:-1 tvg-id="TVSBoxing.us" tvg-name="TVS Boxing" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sal5CkX.jpg" tvg-url="" group-title="Sport",TVS Boxing (720p)
+https://bozztv.com/gusa/gusa-tvsboxing/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="CanalMotor" tvg-name="Canal Motor" tvg-country="UK" tvg-language="EN" tvg-logo="https://live.staticflickr.com/65535/54306570897_9c32cab0b1_o.jpg" tvg-url="" group-title="Sport",Canal Motor
 https://digicom.hls.iptvdc.com/motorstv/index.m3u8
 #EXTINF:-1 tvg-id="RPM tv" tvg-name="RPM" tvg-country="UK" tvg-language="EN" tvg-logo="https://live.staticflickr.com/65535/54307901640_58aeb99a2e_o.png" tvg-url="" group-title="Sport",RPM Motor
@@ -71,10 +73,6 @@ https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
 https://1853185335.rsc.cdn77.org/K192/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="racing" tvg-name="Racing horse" tvg-country="AU" tvg-language="austria" tvg-logo="https://live.staticflickr.com/65535/54307607020_a422a1bd95_o.jpg" tvg-url="" group-title="Sport",racing
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
-#EXTINF:-1 tvg-id="Esport3.es" tvg-name="Esport3" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://canl.nc/wp-content/uploads/2024/06/TRACE-URBAN.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Sport",Esport3 (1080p)
-https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
-#EXTINF:-1 tvg-id="FOXSportHD1.us" tvg-name="FOX Sport HD 1" tvg-country="US" tvg-language="English" tvg-logo="https://canl.nc/wp-content/uploads/2024/06/TRACE-URBAN.png" tvg-url="" group-title="Sport",FOX Sport HD 1 (720p)
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1 tvg-id="Traceurban.us" tvg-name="Trace urban" tvg-country="US" tvg-language="English" tvg-logo="https://canl.nc/wp-content/uploads/2024/06/TRACE-URBAN.png" tvg-url="" group-title="Sport",trace urban
 https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tracetv-traceurban-klowdtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Tracelatina.us" tvg-name="Trace latina" tvg-country="US" tvg-language="English" tvg-logo="https://live.staticflickr.com/65535/54307829173_dcfb5e3eda_o.jpg" tvg-url="" group-title="Sport",trace latina
@@ -97,8 +95,6 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="TheTennisChannel.us" tvg-name="Super Tennis" tvg-country="US" tvg-language="English" tvg-logo="https://live.staticflickr.com/65535/54302352011_7b23379aca_o.jpg" tvg-url="" group-title="Sport",The Tennis Channel
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
-#EXTINF:-1 tvg-id="TVSBoxing.us" tvg-name="TVS Boxing" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/sal5CkX.jpg" tvg-url="" group-title="Sport",TVS Boxing (720p)
-https://bozztv.com/gusa/gusa-tvsboxing/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TVSClassicSports.us" tvg-name="TVS Classic Sports" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ui099xQ.jpg" tvg-url="" group-title="Sport",TVS Classic Sports (720p)
 https://bozztv.com/gusa/gusa-tvs/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="USSPORTTennisPlus1.us" tvg-name="CDN Deportes" tvg-country="VN" tvg-language="English" tvg-logo="https://live.staticflickr.com/65535/54302582878_0dbdc8a8e3_o.jpg" tvg-url="" group-title="Sport",US SPORT Tennis Plus 1
