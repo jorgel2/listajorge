@@ -37,6 +37,20 @@ https://open.http.mp.streamamg.com/p/3001560/sp/300156000/playManifest/entryId/0
 https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="fights" tvg-name="Fight Sports" tvg-country="UK" tvg-language="uk" tvg-logo="https://live.staticflickr.com/65535/54311465711_889dc916cc_o.jpg" tvg-url="" group-title="Sport",fight
 https://cdn09jtedge.indihometv.com/joss/133/fightsport/index.m3u8
+#EXTINF:-1 tvg-id="Swerve" tvg-name="Swerve Sports" tvg-country="US" tvg-language="English" tvg-logo="https://live.staticflickr.com/65535/54306032897_d83e0ce535_o.jpg" tvg-url="" group-title="Sport",Swerve
+https://linear-253.frequency.stream/dist/stirr/253/hls/master/playlist_1920x1080.m3u8
+#EXTINF:-1 tvg-id="TVSClassicSports.us" tvg-name="Combate" tvg-country="US" tvg-language="English" tvg-logo="https://live.staticflickr.com/65535/54302063907_0cff47b203_o.png" tvg-url="" group-title="Sport",Combate (720p)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+#EXTINF:-1 tvg-id="TVSClassicSports.us" tvg-name="Impact wrestling" tvg-country="US" tvg-language="English" tvg-logo="https://live.staticflickr.com/65535/54306715651_7124ef3d54_o.jpg" tvg-url="" group-title="Sport",Impact wrestling (720p)
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-id="YasTV.ae" tvg-name="DAZN" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://live.staticflickr.com/65535/54301721213_43cc5ec0fe_o.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Yas TV (1080p)
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-id="TVSSports.us" tvg-name="Fight Network" tvg-country="US" tvg-language="English" tvg-logo="https://live.staticflickr.com/65535/54301717714_c8b6193771_o.png" tvg-url="" group-title="Sport",TVS Sports (960p)
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="strongman.us" tvg-name="Strongman" tvg-country="US" tvg-language="English" tvg-logo="https://live.staticflickr.com/65535/54306124617_0f3bae607f_o.png" tvg-url="" group-title="Sport",worldpokertour
+https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-id="boxing.us" tvg-name="Boxing tv" tvg-country="US" tvg-language="English" tvg-logo="https://live.staticflickr.com/65535/54307973055_4bcc95f829_o.jpg" tvg-url="" group-title="Sport",boxingtv
+https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
 #EXTINF:-1 tvg-id="CanalMotor" tvg-name="Canal Motor" tvg-country="UK" tvg-language="EN" tvg-logo="https://live.staticflickr.com/65535/54306570897_9c32cab0b1_o.jpg" tvg-url="" group-title="Sport",Canal Motor
 https://digicom.hls.iptvdc.com/motorstv/index.m3u8
 #EXTINF:-1 tvg-id="RPM tv" tvg-name="RPM" tvg-country="UK" tvg-language="EN" tvg-logo="https://live.staticflickr.com/65535/54307901640_58aeb99a2e_o.png" tvg-url="" group-title="Sport",RPM Motor
@@ -59,8 +73,6 @@ https://1853185335.rsc.cdn77.org/K192/tv/playlist.m3u8
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 #EXTINF:-1 tvg-id="Esport3.es" tvg-name="Esport3" tvg-country="ES" tvg-language="Spanish" tvg-logo="https://canl.nc/wp-content/uploads/2024/06/TRACE-URBAN.png" tvg-url="https://www.tdtchannels.com/epg/TV.xml" group-title="Sport",Esport3 (1080p)
 https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
-#EXTINF:-1 tvg-id="cnews.fr" tvg-name="C news" tvg-country="FR" tvg-language="English" tvg-logo="https://live.staticflickr.com/65535/54307667753_8000efcb15_o.jpg" tvg-url="" group-title="Sport",cnews
-https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
 #EXTINF:-1 tvg-id="FOXSportHD1.us" tvg-name="FOX Sport HD 1" tvg-country="US" tvg-language="English" tvg-logo="https://canl.nc/wp-content/uploads/2024/06/TRACE-URBAN.png" tvg-url="" group-title="Sport",FOX Sport HD 1 (720p)
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1 tvg-id="Traceurban.us" tvg-name="Trace urban" tvg-country="US" tvg-language="English" tvg-logo="https://canl.nc/wp-content/uploads/2024/06/TRACE-URBAN.png" tvg-url="" group-title="Sport",trace urban
@@ -93,20 +105,8 @@ https://bozztv.com/gusa/gusa-tvs/tracks-v1a1/mono.m3u8
 https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/bc949011-1dd8-4d10-596c-f6910d4a9cf7.m3u8
 #EXTINF:-1 tvg-id="WorldofFreesports.de" tvg-name="World of Freesports" tvg-country="DE" tvg-language="German" tvg-logo="https://i.imgur.com/pggeczF.jpg" tvg-url="" group-title="Sport",World of Freesports
 https://rakutenaa-mainstreammediafreesportsintl-rakuten-t7dc0.amagi.tv/playlist/rakutenAA-mainstreammediafreesportsintl-rakuten/cb56351b657b66909ecc2167d6f262ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aaf6852db80148b6f4adafb8c2360625f5c98435ee3b24aaaa9e40810da3af3ac4949972858e683179fc94dea8382469e128076a0159ac6f48d8714e0c9ab4691aa18de68284307fbb04dd1a16db9c88e7c3e9d7d5a377437c396e332caa1e43d2579ededc4af60857ca6408c6b0145d323994285228b7faf4bd6899e6f47daad201068dea2776834a2eaaec0915f5bef30a3f2a489242bcbb57c1936607b06dd513fb3ddb2d0949e7f21956125fe04382dd29e559ed29e8afcb28244a6e8abadfbb53258476f0803c908ecca2d931ed476acc104321c6370edcb058ad6821e076b41d0d405940b4ded92cba2cf1e37cf571e58c369cd14503f9b7a3f2aa565d2b20841a56a4a893c36fe18128541f7b765b584d3f70936b0919611ad21bffb5a9ca6429a6c3a5810babd790c12022e869c13675a4eca4be0dcddf23758509e90e3ca80026849696d1166edc5e87f9c82c5536d35c941296d71505ad633df67db0f5e136cae3ad6bf02608a162b4eb7f066453b8cf778591d5bb0e2937791f7784d8fdd4497ba142a11ca/179/1920x1080_6046040/index.m3u8
-#EXTINF:-1 tvg-id="Swerve" tvg-name="Swerve Sports" tvg-country="US" tvg-language="English" tvg-logo="https://live.staticflickr.com/65535/54306032897_d83e0ce535_o.jpg" tvg-url="" group-title="Sport",Swerve
-https://linear-253.frequency.stream/dist/stirr/253/hls/master/playlist_1920x1080.m3u8
-#EXTINF:-1 tvg-id="TVSClassicSports.us" tvg-name="Combate" tvg-country="US" tvg-language="English" tvg-logo="https://live.staticflickr.com/65535/54302063907_0cff47b203_o.png" tvg-url="" group-title="Sport",Combate (720p)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
-#EXTINF:-1 tvg-id="TVSClassicSports.us" tvg-name="Impact wrestling" tvg-country="US" tvg-language="English" tvg-logo="https://live.staticflickr.com/65535/54306715651_7124ef3d54_o.jpg" tvg-url="" group-title="Sport",Impact wrestling (720p)
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-id="YasTV.ae" tvg-name="DAZN" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://live.staticflickr.com/65535/54301721213_43cc5ec0fe_o.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Yas TV (1080p)
-https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-id="TVSSports.us" tvg-name="Fight Network" tvg-country="US" tvg-language="English" tvg-logo="https://live.staticflickr.com/65535/54301717714_c8b6193771_o.png" tvg-url="" group-title="Sport",TVS Sports (960p)
-https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 tvg-id="strongman.us" tvg-name="Strongman" tvg-country="US" tvg-language="English" tvg-logo="https://live.staticflickr.com/65535/54306124617_0f3bae607f_o.png" tvg-url="" group-title="Sport",worldpokertour
-https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-id="boxing.us" tvg-name="Boxing tv" tvg-country="US" tvg-language="English" tvg-logo="https://live.staticflickr.com/65535/54307973055_4bcc95f829_o.jpg" tvg-url="" group-title="Sport",boxingtv
-https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
+#EXTINF:-1 tvg-id="cnews.fr" tvg-name="C news" tvg-country="FR" tvg-language="English" tvg-logo="https://live.staticflickr.com/65535/54307667753_8000efcb15_o.jpg" tvg-url="" group-title="Sport",cnews
+https://hls-m015-live-aka-canalplus.akamaized.net/live/disk/cnews-clair-hd/hls-v3-hd-clair/cnews-clair-hd.m3u8
 #EXTINF:-1 tvg-id="SSC.se" tvg-name="SSC" tvg-country="SE" tvg-language="Swedish" tvg-logo="https://live.staticflickr.com/65535/54303281256_f592e81568_o.jpg" tvg-url="" group-title="Sport",SSC
 https://af.ayassport.ir/hls2/ssc1.m3u8
 #EXTINF:-1 tvg-id="Dubai Sports 1" tvg-name="Dubai Sports" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://live.staticflickr.com/65535/54302805528_01e6ac9951_o.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Dubai Sports 1 (1080p)
