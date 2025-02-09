@@ -13,6 +13,8 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 tvg-id="BekSportsWest.us" tvg-name="Record News" tvg-country="BR" tvg-language="PT" tvg-logo="https://live.staticflickr.com/65535/54301569867_5cf6112ab4_o.jpg" tvg-url="" group-title="News",record News (720p)
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="EuronewsPortuguese.fr" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png",Euronews PT
+https://euronews-live-por-pt.fast.rakuten.tv/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/7392d4f0-7e24-4dbe-8482-f165e712eeed/5.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="ARTV" tvg-country="PT" tvg-language="Portugues" tvg-logo="https://live.staticflickr.com/65535/54307879343_09c38ed85c_o.jpg" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="Sport",CCTV中国中央电视台-5+ 体育赛事
 https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
 #EXTINF:-1 tvg-id="AKCTV.us" tvg-name="AKC TV" tvg-country="US" tvg-language="English" tvg-logo="https://live.staticflickr.com/65535/54307609826_0216c79402_o.png" tvg-url="" group-title="Sport",AAKC TV
@@ -65,6 +67,10 @@ https://amg01131-tracetv-traceurban-klowdtv-utiqd.amagi.tv/playlist/amg01131-tra
 https://amg01131-tracetv-tracelatina-klowdtv-v10em.amagi.tv/playlist/amg01131-tracetv-tracelatina-klowdtv/playlist.m3u8
 #EXTINF:-1 tvg-id="mtvclassic" tvg-name="MTV Classic" tvg-country="EU" tvg-language="EN" tvg-logo="https://live.staticflickr.com/65535/54313361114_d8375cd714_o.png" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="music",Mtv classic
 https://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="myDeejay.it" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/DeeJay-TV.png",DeeJay TV
+https://streamcdng5-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-id="4fun.pl" tvg-id="4fun.pl" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/4Fun-TV.png",4Fun.TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1 tvg-id="Redbull" tvg-name="Red bull" tvg-country="IN" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7NeBmWX.jpeg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Abu Dhabi Sports 2 (1080p)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-id="crazy" tvg-name="Ridiculous TV" tvg-country="usa" tvg-language="EN" tvg-logo="https://live.staticflickr.com/65535/54313942124_be5cc9669f_o.jpg" tvg-url="" group-title="Fun",Ridiculous TV
