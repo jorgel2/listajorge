@@ -27,6 +27,10 @@ https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f
 https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
 #EXTINF:-1 tvg-id="4 sports" tvg-name="4 sports live" tvg-country="RA" tvg-language="RA" tvg-logo="https://live.staticflickr.com/65535/54307318428_5d46c3b7f0_o.png" tvg-url="" group-title="Sport",4 sports live
 https://hls.pokertvfa.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="fifa" tvg-name="Fifa mais" tvg-country="pt" tvg-language="pt" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/fifa-plus.png" tvg-url="" group-title="Sport",fifa plus
+https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLXB0X0ZJRkFQbHVzUG9ydHVndWVzZV9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="Fuel" tvg-name="Fuel TV" tvg-country="pt" tvg-language="pt" tvg-logo="https://www.pirilampo.tv/uploads/tv_image/sm/fuel-tv.png" tvg-url="" group-title="Sport",Fuel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbrpt-lgbr/playlist.m3u8
 #EXTINF:-1 tvg-id="Arryadia.ma" tvg-name="Arryadia" tvg-country="MA" tvg-language="Arabic" tvg-logo="https://live.staticflickr.com/65535/54303571643_3d3029138d_o.jpg" tvg-url="" group-title="Sport",Arryadia (360p)
 https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 #EXTINF:-1 tvg-id="RM.es" tvg-name="Real Madrid" tvg-country="ES" tvg-language="ES" tvg-logo="https://live.staticflickr.com/65535/54302424737_67b3b3acec_o.jpg" tvg-url="" group-title="Sport",RM (432p)
