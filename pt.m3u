@@ -129,3 +129,5 @@ https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunk
 https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist_b8000000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-id="Oman Sport ARB" tvg-name="Oman Sport ARB" tvg-country="OM" tvg-language="Arabic" tvg-logo="https://live.staticflickr.com/65535/54303741276_ddcbc1bd28_o.jpg" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Oman Sport (1080p)
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="miami" tvg-name="Miami tv" tvg-country="es" tvg-language="en" tvg-logo="https://live.staticflickr.com/65535/54318308123_febb741309_o.jpg" tvg-url="" group-title="Sport",miami
+	https://59ec5453559f0.streamlock.net/miamitv/smil:WEB4141/chunklist_w1376507131_b1896000.m3u8
