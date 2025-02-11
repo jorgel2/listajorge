@@ -87,6 +87,12 @@ https://bozztv.com/gusa/gusa-camerasmile/index.m3u8
 https://streams2.sofast.tv/sofastplayout/4c727f82-d2ec-4a07-870c-49a6f22ee6f9_0_HLS/master.m3u8
 #EXTINF:-1 tvg-id="Fail" tvg-name="Failarmy" tvg-country="usa" tvg-language="EN" tvg-logo="https://live.staticflickr.com/65535/54320377240_8355d1337b_o.jpg" tvg-url="" group-title="Fun",fail
 https://failarmy-international-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Fail" tvg-name="Failarmy" tvg-country="usa" tvg-language="EN" tvg-logo="https://live.staticflickr.com/65535/54320377240_8355d1337b_o.jpg" tvg-url="" group-title="Fun",fail
+https://failarmy-international-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Fail" tvg-name="Failarmy" tvg-country="usa" tvg-language="EN" tvg-logo="https://live.staticflickr.com/65535/54320377240_8355d1337b_o.jpg" tvg-url="" group-title="Fun",fail
+https://failarmy-international-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Fail" tvg-name="Failarmy" tvg-country="usa" tvg-language="EN" tvg-logo="https://live.staticflickr.com/65535/54320377240_8355d1337b_o.jpg" tvg-url="" group-title="Fun",fail
+https://failarmy-international-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="campuslore" tvg-name="Campuslore" tvg-country="usa" tvg-language="EN" tvg-logo="https://live.staticflickr.com/65535/54306838636_98e2c9c4c3_o.jpg" tvg-url="" group-title="Sport",Campuslore Sports  (720p)
 https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="NFL" tvg-name="NFL Network" tvg-country="usa" tvg-language="EN" tvg-logo="https://live.staticflickr.com/65535/54307138318_64eeb0eafd_o.jpg" tvg-url="" group-title="Sport",NFL Network  (720p)
