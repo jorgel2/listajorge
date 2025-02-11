@@ -111,6 +111,8 @@ https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/pla
 https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-name="BeIN SPORTS XTRA" tvg-country="INT" tvg-language="English" tvg-logo="https://www.freelivesports.tv/wp-content/uploads/2025/01/bein-extra-212.png" tvg-url="" group-title="Sport",Red Bull TV (1080p)
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-id="bein.at" tvg-name="BeIN SPORTS" tvg-country="INT" tvg-language="English" tvg-logo="https://live.staticflickr.com/65535/54320434688_a4c4584960_o.png" tvg-url="" group-title="Sport",beinTV (1080p)
+http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 tvg-id="RugbyMensSevens.ie" tvg-name="CBS Sports" tvg-country="IE" tvg-language="English" tvg-logo="https://live.staticflickr.com/65535/54303760536_0c19d55a44_o.png" tvg-url="" group-title="Sport",cbs sports
 https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="TheTennisChannel.us" tvg-name="Super Tennis" tvg-country="US" tvg-language="English" tvg-logo="https://live.staticflickr.com/65535/54302352011_7b23379aca_o.jpg" tvg-url="" group-title="Sport",The Tennis Channel
