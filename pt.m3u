@@ -11,6 +11,8 @@ https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/in
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV Filmes" tvg-id="Movie sphere" tvg-logo="https://live.staticflickr.com/65535/54364716378_cf5b943736_o.jpg",Moviesphere (BR)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
+#EXTINF:-1 group-title="RT TV Filmes" tvg-id="Run Time TV F" tvg-logo="https://live.staticflickr.com/65535/54365553594_604d23560c_o.jpg",Runtime mf (BR)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
 #EXTINF:-1 tvg-id="BekSportsEast.us" tvg-name="Record TV" tvg-country="BR" tvg-language="English" tvg-logo="https://live.staticflickr.com/65535/54302840020_0d612ca9f2_o.jpg" tvg-url="" group-title="Sport",Bek Sports East (720p)
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 tvg-id="BekSportsWest.us" tvg-name="Record News" tvg-country="BR" tvg-language="PT" tvg-logo="https://live.staticflickr.com/65535/54301569867_5cf6112ab4_o.jpg" tvg-url="" group-title="News",record News (720p)
